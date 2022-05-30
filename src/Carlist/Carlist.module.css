@@ -1,0 +1,29 @@
+.main{
+    background-color: rgb(231, 231, 231);
+    width: 500px;
+    /* align-items: center; */
+    /* display: inline-block; */
+    padding: 10px;
+    margin: 30px;
+    box-shadow: 10px 10px 10px  rgb(220, 225, 249);
+    border-radius: 9px;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+.main:hover{
+    background-color: rgb(200, 255, 237);
+}
+.main Button{
+    color: white;
+    background-color: rgb(255, 111, 111);
+    padding: 5px;
+    margin-bottom: 10px;
+    float: right;
+    border: 10px;
+    border-radius: 5px;
+}
+.main Button:hover{
+    background-color: red;
+}
